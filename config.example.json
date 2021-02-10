@@ -1,0 +1,5 @@
+{
+    "PORT": 5555,
+    "TOKEN": "IEX_TOKEN",
+    "SANDBOX_TOKEN": "IEX_SANDBOX_TOKEN"
+}
